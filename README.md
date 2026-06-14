@@ -1,4 +1,4 @@
-# Multimodal Stress Detection System
+# Digital Lie Stress Analysis
 
 An interactive, real-time web application that detects human stress levels by combining **facial expression analysis** and **vocal cues**, based on the 2025 research paper *"Multimodal Stress Detection Using Facial Expressions and Voice Analysis"*.
 
@@ -58,8 +58,8 @@ As established in the reference paper, the system yields the following performan
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/saheliacharyya-cpu/Face-Project.git
-cd Face-Project
+git clone https://github.com/saheliacharyya-cpu/Digital-Lie-Stress-Analysis.git
+cd Digital-Lie-Stress-Analysis
 ```
 
 ### 2. Install Dependencies
