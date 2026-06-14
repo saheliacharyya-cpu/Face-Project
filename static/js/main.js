@@ -575,3 +575,4 @@ function updateStatus(text, type = 'info') {
         statusElem.style.color = 'var(--primary-cyan)';
     }
 }
+  
